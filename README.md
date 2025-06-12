@@ -1,3 +1,8 @@
+Woof! (with unofficial binaries for Windows ARM64/AArch64, fork of [fabiangreffrath/woof](https://github.com/fabiangreffrath/woof)).  
+Downloads are hosted at the [releases](https://github.com/theinstantmatrix/woof/releases) section.
+
+---
+
 # This is Woof!
 [![Woof! Icon](https://raw.githubusercontent.com/fabiangreffrath/woof/master/data/woof.png)](https://github.com/fabiangreffrath/woof)
 
